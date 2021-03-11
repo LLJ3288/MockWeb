@@ -2,7 +2,7 @@ package com.tts.mockweb.controller;
 
 //import com.tts.mockweb.service.GreetingService;
 
-import com.tts.mockweb.GreetingService;
+import com.tts.mockweb.service.GreetingService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

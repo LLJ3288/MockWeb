@@ -1,4 +1,4 @@
-package com.tts.mockweb;
+package com.tts.mockweb.service;
 
 import org.springframework.stereotype.Service;
 
